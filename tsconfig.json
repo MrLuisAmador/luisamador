@@ -4,10 +4,10 @@
   "files": [],
   "references": [
     {
-      "path": "./apps/luisamador-e2e"
+      "path": "./apps/mrluisamador-e2e"
     },
     {
-      "path": "./apps/luisamador"
+      "path": "./apps/mrluisamador"
     }
   ]
 }

@@ -1,9 +1,9 @@
 {
-  "name": "@luisamador/luisamador",
+  "name": "@luisamador/mrluisamador",
   "version": "0.0.1",
   "private": true,
   "nx": {
-    "name": "luisamador"
+    "name": "mrluisamador"
   },
   "dependencies": {
     "next": "~15.2.4",
